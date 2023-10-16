@@ -1,0 +1,269 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;0,800;1,100;1,200;1,300;1,400;1,600;1,800&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.header{
+    background-image: url(./images/Rectangle\ 256.png);
+    height: 600px;
+    margin: 20px;
+
+
+    width: auto;
+}
+.img-s{
+    padding-left: 35%;
+    padding-top: 15px;
+    height: 55px;
+}
+.lorEp{
+    color: white;
+    font-size: 6rem;
+    align-items: center;
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+.rem{
+    color: white;
+    font-size: 6rem;
+    align-items: center;
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+    margin-top: -2rem;
+}
+.butt{
+    height: 75px;
+    width: 200px;
+    margin-left: 45%;
+    color: #6CB981;
+    border-radius: 90px;
+    border-color: #FFFFFF;
+    font: bolder;
+    line-height: 27px;
+    border: 0;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 23px;
+}
+.ser{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 2.5rem;
+    color: #828282;
+}
+.flower{
+    margin-left: 28.5rem;
+    padding-left: 9rem;
+    margin-top: -2.5em;
+}
+.grass{
+    margin-left: 100px;
+}
+.lor{
+    color: #0D4D14;
+    padding-right: 11rem;
+    padding-top: 1.5rem;
+
+}
+.grass1{
+    float: left;
+    width: 385px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+    height: 504px;
+    border-radius: 35px;
+    box-shadow: 0px 10px 30px 0px #10331E1A;
+
+}
+.grass2{
+    float: left;
+    width: 385px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+    height: 504px;
+    border-radius: 35px;
+    box-shadow: 0px 10px 30px 0px #10331E1A;
+}
+.grass3{
+    float: left;
+    width: 385px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+    text-align: center;
+    height: 504px;
+    border-radius: 35px;
+    box-shadow: 0px 10px 30px 0px #10331E1A;
+}
+
+
+
+.btn{
+    height: 75px;
+    width: 200px;
+    margin-left: 43%;
+    color: #6CB981;
+    border-radius: 90px;
+    border-color: #FFFFFF;
+    font: bolder;
+    line-height: 27px;
+    border: 0;
+    margin-top: -40px;
+    font-weight: 600;
+    font-size: 23px;
+    
+    
+}
+
+.about{
+    margin-left: 40rem;
+    font-size: 3rem;
+    margin-top: 3.5rem;
+    color: #828282;
+}
+.flwr{
+    margin-left: 28.5rem;
+    padding-left: 20rem;
+    margin-top: -2rem;
+}
+.lorems{
+    background-image: url(./images/Rectangle\ 259.png); 
+    height:
+    margin: 20px;
+}
+
+.loreeem{
+    display: flex;
+    color: white;
+    height: 500px;
+    width: auto;
+    padding: 6rem 10rem 8rem 10rem;
+    
+
+
+}
+.loRem{
+    flex: 33%;
+
+    
+}
+.lo-rem{
+    flex: 33%;
+
+}
+.lorem-si{
+    flex: 33%;
+}
+
+.help-btn{
+    height: 75px;
+    width: 200px;
+    margin-left: 43%;
+    color: #6CB981;
+    border-radius: 90px;
+    border-color: #FFFFFF;
+    font: bolder;
+    line-height: 27px;
+    border: 0;
+    margin-top: -10rem;
+    font-weight: 600;
+    font-size: 23px;
+    position: absolute;
+
+
+}
+.test{
+    margin-left: 35rem;
+    font-size: 3rem;
+    margin-top: 3.5rem;
+    color: #828282;
+    margin-bottom: 3rem;
+}
+.head-court{
+    display: flex;
+}
+.court1{
+    display: flex;
+    width: 530px;
+    margin: 10px;
+    margin-bottom: 40px;
+    border: solid #6CB981 1px;
+    border-radius: 20px;
+    color: #6CB981;
+    padding: 35px;
+    margin-left: 65px;
+
+}
+
+.court1 img{
+    width: 80px;
+    height: 80px;
+    margin-top: 8px;
+    margin-right: 1rem;
+}
+.contact-u{
+    margin-left: 35rem;
+    font-size: 3.5rem;
+    margin-top: 1.5rem;
+    color: #828282;
+    margin-bottom: 3rem;
+}
+.footer{
+    height: 520px;
+}
+.footee{
+    display: flex;
+    text-align: center;
+    margin-left: 27rem;
+}
+.contact-btn{
+    display: flex;
+    flex-direction: column;
+}
+.but1{
+    height: 55px;
+    width: 310px;
+    margin: 0.3rem;
+    border-radius: 61px;
+    background-color:#9FDEA9;
+    border-color:#9FDEA9;
+    border: 0;
+}
+.but2{
+    width: 200px;
+    height: 56px;
+    border-radius: 61px;
+    background-color: #FFFFFF;
+    border-color: #9FDEA9;
+    margin-left: 4rem;
+
+}
+.font{
+    display: flex;
+    flex-direction: column;
+}
+.font1{
+    display: flex;
+}
+.font1 img{
+display: flex;
+margin-top: 1.5rem;
+margin-left: 4rem;
+}
+.font1 p{
+    display: flex;
+    margin-top: 1.5rem;
+}
+.footo{
+width: 100%;
+background-color:#324B29;
+height: 100px;
+margin-top: -5rem;
+
+}
